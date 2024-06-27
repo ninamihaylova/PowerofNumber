@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\bin\Debug\net8.0\PowerofNumber.exe
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\bin\Debug\net8.0\PowerofNumber.deps.json
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\bin\Debug\net8.0\PowerofNumber.runtimeconfig.json
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\bin\Debug\net8.0\PowerofNumber.dll
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\bin\Debug\net8.0\PowerofNumber.pdb
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\PowerofNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\PowerofNumber.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\PowerofNumber.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\PowerofNumber.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\PowerofNumber.dll
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\refint\PowerofNumber.dll
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\PowerofNumber.pdb
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\PowerofNumber.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\PowerofNumber\PowerofNumber\obj\Debug\net8.0\ref\PowerofNumber.dll
